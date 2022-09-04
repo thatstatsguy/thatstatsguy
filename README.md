@@ -12,13 +12,13 @@
 
 ### Technologies and Tools
 
-<img align="left" alt="F#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg" />
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
-<img align="left" alt="Azure" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-<img align="left" alt="Blazor" width="26px" src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" />
-<img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
-<img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
+<img align="left" alt="F#" width="26px" style="max-height:26px" src="https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg" />
+<img align="left" alt="C#" width="26px" style="max-height:26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
+<img align="left" alt="Azure" width="26px" style="max-height:26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" />
+<img align="left" alt="Python" width="26px" style="max-height:26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img align="left" alt="Blazor" width="26px" style="max-height:26px" src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" />
+<img align="left" alt="HTML" width="26px" style="max-height:26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
+<img align="left" alt="CSS" width="26px" style="max-height:26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 
 
 
