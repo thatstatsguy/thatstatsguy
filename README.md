@@ -1,7 +1,10 @@
 👋 Hi, I’m Chris
 
-- 🌱 Currently Learning : Blazor, CSS, Headless-CMS integrations like Strapi
-- 📈 2022 Goals - Launch a Blazor website using a Strapi CMS backend
+- 🌱 Currently Learning : Design patterns, Distributed Systems Design
+- 📈 2023 Goals:
+    - Write 52 pieces of tech content for https://thatstatsguy.github.io/
+    - Read Data Intensive Applications, Domain Driven Design Made Functional and Clean Code
+    - Take Kotlin/Go for a spin with a test project
 
 ### Profiles
 
