@@ -7,6 +7,7 @@
 [<img align="left" alt="Chris Dunderdale | LinkedIn" width="22px" src="https://a.storyblok.com/f/114267/512x512/fe56eadc8c/linkedin.png" />][linkedin]
 [<img align="left" alt="Chris Dunderdale | Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][stackoverflow]
 [<img align="left" alt="Chris Dunderdale | Medium" width="22px" src="https://www.svgrepo.com/show/450231/medium.svg" />][medium]
+[<img align="left" alt="Chris Dunderdale | Medium" width="22px" src="https://www.svgrepo.com/show/217753/github.svg" />][github]
 
 <br />
 
@@ -27,6 +28,7 @@
 [linkedin]: https://www.linkedin.com/in/cdunderdale/
 [stackoverflow]: https://stackoverflow.com/users/13704643/christopher-dunderdale
 [medium]: https://medium.com/@chrisdunderdale
+[github]: https://thatstatsguy.github.io/
 
 <!---
 thatstatsguy/thatstatsguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
