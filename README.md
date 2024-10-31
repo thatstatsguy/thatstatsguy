@@ -1,6 +1,6 @@
 👋 Hi, I’m Chris
 
-- 🌱 Currently Learning : Event Driven Architecture, Distributed System Design, Authorization
+- 🌱 Currently Learning : Event Driven Architecture, Distributed System Design, Authorization in Blazor and ASPNET Core
 
 ### Profiles
 
