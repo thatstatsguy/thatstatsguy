@@ -6,7 +6,7 @@
 
 [<img align="left" alt="Chris Dunderdale | LinkedIn" width="22px" src="https://a.storyblok.com/f/114267/512x512/fe56eadc8c/linkedin.png" />][linkedin]
 [<img align="left" alt="Chris Dunderdale | Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][stackoverflow]
-[<img align="left" alt="Chris Dunderdale | Stack Overflow" width="22px" src="[https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg](https://en.wikipedia.org/wiki/File:Medium_(website)_logo.svg)" />][medium]
+[<img align="left" alt="Chris Dunderdale | Medium" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" />][medium]
 
 <br />
 
