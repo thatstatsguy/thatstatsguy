@@ -1,15 +1,12 @@
 👋 Hi, I’m Chris
 
-- 🌱 Currently Learning : Design patterns, Distributed Systems Design
-- 📈 2023 Goals:
-    - Write 52 pieces of tech content for https://thatstatsguy.github.io/
-    - Read Data Intensive Applications, Domain Driven Design Made Functional and Clean Code
-    - Take Kotlin/Go for a spin with a test project
+- 🌱 Currently Learning : Event Driven Architecture, Distributed System Design, Authorization
 
 ### Profiles
 
 [<img align="left" alt="Chris Dunderdale | LinkedIn" width="22px" src="https://a.storyblok.com/f/114267/512x512/fe56eadc8c/linkedin.png" />][linkedin]
 [<img align="left" alt="Chris Dunderdale | Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][stackoverflow]
+[<img align="left" alt="Chris Dunderdale | Stack Overflow" width="22px" src="[https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg](https://en.wikipedia.org/wiki/File:Medium_(website)_logo.svg)" />][medium]
 
 <br />
 
@@ -29,6 +26,7 @@
 
 [linkedin]: https://www.linkedin.com/in/cdunderdale/
 [stackoverflow]: https://stackoverflow.com/users/13704643/christopher-dunderdale
+[medium]: https://medium.com/@chrisdunderdale
 
 <!---
 thatstatsguy/thatstatsguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
